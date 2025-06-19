@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+
+@theme inline {
+  --color-RedP: #EC5F5F;
+  --color-YellowP: #FDCE03;
+
+  --color-TextP: #54595F;
+  --color-H1: #062233;
+
+  --font-Kanit: "Kanit", sans-serif;
+  --font-Roboto: "Roboto", sans-serif;
+}
+
+h1, h2{
+  font-family: "Kanit", sans-serif;
+  color: #062233;
+  
+}
+
+p{
+  font-family: "Roboto", sans-serif;
+  color: #54595F;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.maxW {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 2%;
+}
