@@ -23,10 +23,10 @@ export default function AboutWhy() {
         <section className='pt-30'>
             <div className='maxW flex flex-col items-center justify-center gap-20 lg:flex-row'>
                 <article className='lg:w-1/2'>
-                    <h1 className='font-semibold text-5xl uppercase mt-2'>
+                    <h1 className='font-semibold text-5xl uppercase mt-2 text-center lg:text-left'>
                         Por que <span className='text-RedP'>escolher</span> os sorvetes <span className='text-RedP'>Deliciato?</span>
                     </h1>
-                    <p className='mt-4 mb-10'>
+                    <p className='mt-4 mb-10 text-center lg:text-left'>
                         Conheça os motivos que fazem da Deliciato a escolha perfeita para os amantes de um bom sorvete.
                     </p>
 

@@ -43,7 +43,7 @@ export default function Header() {
                     <div>
                         <a className='text-3xl uppercase text-RedP font-bold' href="">Delicia<span className='text-YellowP'>to</span></a>
                     </div>
-                    <Navbar />
+                    {/* <Navbar /> */}
                 </div>
             </header>
         </>
