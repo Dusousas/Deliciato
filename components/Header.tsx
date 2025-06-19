@@ -41,7 +41,7 @@ export default function Header() {
                 <div className='maxW flex justify-between items-center'>
                     
                     <div>
-                        <a className='text-3xl uppercase text-RedP font-bold' href="">Delicia<span className='text-YellowP'>to</span></a>
+                        <a className='text-3xl uppercase text-RedP font-bold font-Kanit tracking-wider' href="">Delicia<span className='text-RedP/70'>to</span></a>
                     </div>
                     {/* <Navbar /> */}
                 </div>
