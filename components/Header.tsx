@@ -43,7 +43,7 @@ export default function Header() {
                     <div>
                         <a className='text-3xl uppercase text-RedP font-bold font-Kanit tracking-wider' href="">Delicia<span className='text-RedP/70'>to</span></a>
                     </div>
-                    {/* <Navbar /> */}
+                    <Navbar />
                 </div>
             </header>
         </>
